@@ -5,30 +5,30 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+شيخه علي الفرج
 
 ### اسم المشروع
-
+AlurGlow \ الورقلو
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+ابيع اشياء ما تنباع بالكويت 
 
 
 # الأعمال المستقبلية
-
+افتح محل
 
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
-
+### Student Name 
+shaikha ali alfaraj
 
 ### Project Name
-
+AlurGlow
 # Idea
-Problem and solutions if found 
+selling 'exotic' products that we dont have/sell here
 
 
 # Future Work 
-
+open a shop 
 
